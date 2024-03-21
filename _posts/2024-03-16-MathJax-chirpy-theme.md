@@ -1,6 +1,6 @@
 ---
 title: LaTeX 사용을 위한 MathJax를 github page에 적용하기 
-categories: [github]
+categories: [Posts,github]
 tags: [github,page,chirpy,theme,mathjax,latex]
 use_math: true
 ---
