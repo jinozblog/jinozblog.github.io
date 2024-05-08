@@ -36,7 +36,7 @@ Arduino & Sensor Pin-Map Description
   *photocell A/B wire 구분 없음
     
 
-## 3. Source Code
+## 2. Source Code
 
 ArduinoIDE Source Code Upload & Serial Plotter/Monitor   
   > ArduinoIDE 2.3.2    
