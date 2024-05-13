@@ -24,7 +24,8 @@ tags: [macos,python,venv,virtualenv,pyside,pyside6,simulator]
 - 먼저 읽어보기....     
   POST: python PySide6 Simulator    
     [python PySide6 Simulator](https://jinozblog.github.io/posts/python-pyside6-a-simulator/)   
-  POST: mariadb & dbeaver
+  POST: mariadb & dbeaver   
+    [DataBase: MariaDB & dbeaver](https://jinozblog.github.io/posts/backend-macOS-mariadb-dbeaver/)   
    
 1. pythonSimulator Edit    
 
